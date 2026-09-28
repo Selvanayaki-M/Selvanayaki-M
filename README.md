@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-💻 Software Developer with **1.8 years of total experience**
+💻 Software Developer with **2 years of total experience**
 
 ☕ Specialized in **Java & Spring Boot**
 
