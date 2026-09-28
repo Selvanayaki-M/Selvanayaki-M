@@ -72,35 +72,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 👕 Online T-Shirt Order Management System
-
-<p>
-<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Framework-green?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-</p>
-
-🛒 Online T-Shirt ordering application built using Java Spring Boot.
-
-### ✨ Features
-
-- 👕 Product management
-- 🎨 Size and color management
-- 👤 Customer management
-- 🛒 Shopping cart
-- 📦 Order management
-- 💳 Payment management
-- 🚚 Order tracking
-- 🔐 User authentication
-- 👨‍💼 Admin management
-
-### 🔧 Technologies
-
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `Thymeleaf` `HTML` `CSS` `JavaScript`
-
----
 
 ## 🗺️ GIS Tenant Management System
 
@@ -128,74 +99,6 @@
 
 `Java` `Spring Boot` `REST API` `PostgreSQL` `PostGIS` `Hibernate` `JPA` `Leaflet` `GeoJSON`
 
----
-
-## 🤖 AI Media Detector
-
-<p>
-<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Python-Flask-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/PyTorch-AI-red?style=for-the-badge&logo=pytorch"/>
-</p>
-
-🤖 Application for detecting whether uploaded media is **AI-generated or original**.
-
-### ✨ Features
-
-- 🖼️ Image detection
-- 🎥 Video detection
-- 🤖 AI model integration
-- 🔗 Spring Boot → Flask API communication
-- 📊 Detection results
-- 🗄️ PostgreSQL storage
-
-### 🔧 Technologies
-
-`Java` `Spring Boot` `Python` `Flask` `PyTorch` `PostgreSQL` `REST API`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Selvanayaki-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvanayaki-M&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Selvanayaki-M&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvanayaki-M&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Selvanayaki-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</p>
-
----
 
 # 💻 What I'm Currently Working On
 
