@@ -1,97 +1,284 @@
-# Hi, I'm Selvanayaki M 👋
+# 👋 Hi, I'm Selvanayaki M
 
-### Java Developer | Spring Boot | REST APIs | PostgreSQL
+### 💻 Java Developer | Spring Boot | REST API | PostgreSQL
 
-💻 Software Developer with 1.8 years of total experience  
-☕ Java & Spring Boot Developer  
-🔗 Interested in Backend Development and REST API Development  
-📍 Available for opportunities · Coimbatore, India
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Selvanayaki%20M&fontSize=45&fontAlignY=35&animation=twinkling" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Selvanayaki-M">
+    <img src="https://komarev.com/ghpvc/?username=Selvanayaki-M&label=Profile%20Views&color=blue&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Selvanayaki-M?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Selvanayaki-M?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer focused on building backend applications using
-Java and Spring Boot.
+💻 Software Developer with **1.8 years of total experience**
 
-I enjoy developing REST APIs, working with databases, implementing
-business logic, and integrating backend services with frontend applications.
+☕ Specialized in **Java & Spring Boot**
 
-### 💼 Technical Skills
+🔗 Experienced in **REST API Development**
 
-- Java
-- Spring Boot
-- Spring MVC
-- REST APIs
-- JPA / Hibernate
-- SQL
-- PostgreSQL
-- PostGIS
-- JavaScript
-- HTML
-- CSS
-- Thymeleaf
-- Git & GitHub
-- Maven
+🗄️ Database experience with **PostgreSQL / SQL**
+
+🛠️ Experienced with **JPA / Hibernate**
+
+🌐 Frontend experience with **HTML, CSS, JavaScript & Thymeleaf**
+
+🗺️ Interested in **GIS, spatial data and location-based applications**
+
+📍 Available for opportunities · **Coimbatore, India**
 
 ---
 
-## 🛠️ Projects
+# 🛠️ Tech Stack
 
-### 👕 Online T-Shirt Order Management System
+## ☕ Backend
 
-A Spring Boot based e-commerce application for managing:
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height="55"/>
+</p>
 
-- Products
-- Customers
-- T-Shirt sizes and colors
-- Shopping cart
-- Orders
-- Payments
-- Order tracking
-- Admin management
+## 🗄️ Database
 
-**Technologies:** Java, Spring Boot, Spring Data JPA, PostgreSQL, Thymeleaf
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" height="55"/>
+</p>
 
----
+## 🌐 Frontend
 
-### 🗺️ GIS / Tenant Management Application
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap" height="55"/>
+</p>
 
-A web application for managing mall properties, tenants and floor maps.
+## 🔧 Tools
 
-**Technologies:**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" height="55"/>
+</p>
 
-Java | Spring Boot | REST API | PostgreSQL | PostGIS | Hibernate | Leaflet
+## 🗺️ GIS / Spatial Technology
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,postgresql" height="55"/>
+</p>
 
-### 🤖 AI Media Detector
-
-An application that detects whether uploaded images/videos are
-AI-generated or original.
-
-**Technologies:**
-
-Java | Spring Boot | Python | Flask | PyTorch | PostgreSQL
+**Technologies:** Leaflet • PostGIS • GeoJSON • Spatial SQL
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-🔹 [Java Spring Boot Projects](YOUR_REPOSITORY_LINK)
+## 👕 Online T-Shirt Order Management System
 
-🔹 [Portfolio] (https://selvanayaki-m-portfolio-zqor.vercel.app/)
+<p>
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Framework-green?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
+</p>
+
+🛒 Online T-Shirt ordering application built using Java Spring Boot.
+
+### ✨ Features
+
+- 👕 Product management
+- 🎨 Size and color management
+- 👤 Customer management
+- 🛒 Shopping cart
+- 📦 Order management
+- 💳 Payment management
+- 🚚 Order tracking
+- 🔐 User authentication
+- 👨‍💼 Admin management
+
+### 🔧 Technologies
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `Thymeleaf` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 📊 GitHub
+## 🗺️ GIS Tenant Management System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Selvanayaki-M&show_icons=true&theme=dark)
+<p>
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/PostGIS-Spatial%20Database-blue?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Leaflet-GIS-green?style=for-the-badge"/>
+</p>
+
+🏢 GIS-based mall tenant and floor management application.
+
+### ✨ Features
+
+- 🏢 Tenant management
+- 🗺️ Interactive floor maps
+- 📍 Location tracking
+- 🔎 Property search
+- 🟢 Tenant status visualization
+- 📊 Lease dashboard
+- 📈 Sales and rent reports
+- 📐 Spatial data processing
+- 🔥 Property highlighting
+
+### 🔧 Technologies
+
+`Java` `Spring Boot` `REST API` `PostgreSQL` `PostGIS` `Hibernate` `JPA` `Leaflet` `GeoJSON`
 
 ---
 
-## 📫 Connect With Me
+## 🤖 AI Media Detector
 
-- 💼 LinkedIn: https://www.linkedin.com/in/selvanayaki-m-503017238/
-- 🌐 Portfolio: https://selvanayaki-m-portfolio-zqor.vercel.app/
-- 📧 Email: selvanayaki2811@gmail.com
+<p>
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Python-Flask-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-AI-red?style=for-the-badge&logo=pytorch"/>
+</p>
+
+🤖 Application for detecting whether uploaded media is **AI-generated or original**.
+
+### ✨ Features
+
+- 🖼️ Image detection
+- 🎥 Video detection
+- 🤖 AI model integration
+- 🔗 Spring Boot → Flask API communication
+- 📊 Detection results
+- 🗄️ PostgreSQL storage
+
+### 🔧 Technologies
+
+`Java` `Spring Boot` `Python` `Flask` `PyTorch` `PostgreSQL` `REST API`
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Selvanayaki-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvanayaki-M&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Selvanayaki-M&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvanayaki-M&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Selvanayaki-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</p>
+
+---
+
+# 💻 What I'm Currently Working On
+
+🔹 Building **Spring Boot REST APIs**
+
+🔹 Developing **Online T-Shirt Order Management System**
+
+🔹 Improving **Java & Spring Boot skills**
+
+🔹 Working with **PostgreSQL & Hibernate**
+
+🔹 Exploring **Microservices Architecture**
+
+🔹 Improving **DSA and problem-solving skills**
+
+---
+
+# 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes" height="55"/>
+</p>
+
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🔗 REST API Design
+- 🧩 Microservices
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🧠 Data Structures & Algorithms
+- 🧪 Unit Testing
+
+---
+
+# 🎯 Career Goal
+
+> To grow as a **Java Backend Developer** and build scalable,
+> reliable and production-ready applications using Java and Spring Boot.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Selvanayaki-M">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/selvanayaki-m-503017238/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:selvanayaki2811@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/Selvanayaki-M">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Selvanayaki-M&repo=selvanayaki-portfolio&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Selvanayaki-M">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Selvanayaki-M&repo=selvanayaki-M-portfolio&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
